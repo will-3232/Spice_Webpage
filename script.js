@@ -1,4 +1,4 @@
+// Placeholder JS – expand later
 function exploreShop() {
-    alert("Shop page coming soon!");
-  }
-  
+  window.location.href = "shop.html";
+}
